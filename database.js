@@ -28,3 +28,4 @@ pool.query('SELECT * FROM fudbaldb.igrac', (err, res) => {
         console.log('JSON data has been written to result.json');
     });
 });
+
